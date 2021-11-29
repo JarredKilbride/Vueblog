@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, aut obcaecati placeat veniam maiores accusamus modi ea praesentium. Cupiditate sequi excepturi itaque non voluptate tempora maxime delectus rerum iusto assumenda.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 tips for Css",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, aut obcaecati placeat veniam maiores accusamus modi ea praesentium. Cupiditate sequi excepturi itaque non voluptate tempora maxime delectus rerum iusto assumenda.",
+      "tags": [
+        "webdev",
+        "coding",
+        "css"
+      ]
+    },
+    {
+      "title": "test",
+      "body": "test",
+      "tags": [
+        "test"
+      ],
+      "id": 3
+    },
+    {
+      "title": "ewr",
+      "body": "wer",
+      "tags": [
+        "wer"
+      ],
+      "id": 4
+    },
+    {
+      "title": "sdf",
+      "body": "sd",
+      "tags": [
+        "sdfsdfsdf"
+      ],
+      "id": 5
+    }
+  ]
+}
