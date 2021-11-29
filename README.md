@@ -1,7 +1,7 @@
 # Vue Blog
-```
-this is just a fun blog with vue.js v3. connceted with firebase for the back end.
-```
+
+This is just a fun fake blog created with vue.js v3. connceted with firebase for the back end.
+
 
 ## Project setup
 ```
