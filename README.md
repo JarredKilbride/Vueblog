@@ -1,4 +1,7 @@
-# dojoblog
+# Vue Blog
+```
+this is just a fun blog with vue.js v3. connceted with firebase for the back end.
+```
 
 ## Project setup
 ```
